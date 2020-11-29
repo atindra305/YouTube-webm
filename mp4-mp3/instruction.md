@@ -1,5 +1,4 @@
-# Description:
-- Simple script to extract MP3 audio from videos using Python.
+# Simple Script to convert any video of format mp4 to mp3
  
 # Requirements:
  - "lame"
